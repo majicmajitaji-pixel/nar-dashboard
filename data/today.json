@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "generatedAt": "2026-10-29T18:00:04+09:00",
+  "generatedAt": "2026-10-29T18:50:32+09:00",
   "source": "keiba.go.jp",
   "tracks": [
     {
@@ -8,6 +8,7 @@
       "name": "門別",
       "kana": "MONBETSU",
       "location": "北海道",
+      "babaCode": "36",
       "races": 12,
       "subInfo": "曇・重",
       "raceList": [
@@ -148,14 +149,14 @@
         "num": 11,
         "name": "エーデルワイス賞JpnIII",
         "source": "keiba.go.jp"
-      },
-      "babaCode": "36"
+      }
     },
     {
       "id": "oi",
       "name": "大井",
       "kana": "OI",
       "location": "東京シティ",
+      "babaCode": "20",
       "races": 12,
       "subInfo": "曇・稍重",
       "raceList": [
@@ -296,14 +297,14 @@
         "num": 12,
         "name": "アンドロメダ賞B2三B3一選抜特別",
         "source": "keiba.go.jp"
-      },
-      "babaCode": "20"
+      }
     },
     {
       "id": "nagoya",
       "name": "名古屋",
       "kana": "NAGOYA",
       "location": "愛知県",
+      "babaCode": "24",
       "races": 12,
       "subInfo": "晴・稍重/良",
       "raceList": [
@@ -444,14 +445,14 @@
         "num": 11,
         "name": "J認 ネクストスター名古屋2歳オープン",
         "source": "keiba.go.jp"
-      },
-      "babaCode": "24"
+      }
     },
     {
       "id": "sonoda",
       "name": "園田",
       "kana": "SONODA",
       "location": "兵庫県",
+      "babaCode": "27",
       "races": 12,
       "subInfo": "晴・稍重",
       "raceList": [
@@ -592,8 +593,7 @@
         "num": 11,
         "name": "J認 ネクストスター園田2歳登録馬",
         "source": "keiba.go.jp"
-      },
-      "babaCode": "27"
+      }
     }
   ]
 }
