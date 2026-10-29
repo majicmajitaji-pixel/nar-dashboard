@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "generatedAt": "2026-10-29T18:50:32+09:00",
+  "generatedAt": "2026-10-29T19:32:05+09:00",
   "source": "keiba.go.jp",
   "tracks": [
     {
@@ -10,7 +10,7 @@
       "location": "北海道",
       "babaCode": "36",
       "races": 12,
-      "subInfo": "曇・重",
+      "subInfo": "曇/雨・重",
       "raceList": [
         {
           "num": 1,
@@ -21,7 +21,7 @@
           "weather": "曇",
           "going": "重",
           "horses": 7,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=36&k_raceNo=1"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=1&k_babaCode=36"
         },
         {
           "num": 2,
@@ -32,7 +32,7 @@
           "weather": "曇",
           "going": "重",
           "horses": 10,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=36&k_raceNo=2"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=2&k_babaCode=36"
         },
         {
           "num": 3,
@@ -43,7 +43,7 @@
           "weather": "曇",
           "going": "重",
           "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=36&k_raceNo=3"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=3&k_babaCode=36"
         },
         {
           "num": 4,
@@ -54,7 +54,7 @@
           "weather": "曇",
           "going": "重",
           "horses": 8,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=36&k_raceNo=4"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=4&k_babaCode=36"
         },
         {
           "num": 5,
@@ -65,7 +65,7 @@
           "weather": "曇",
           "going": "重",
           "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=36&k_raceNo=5"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=5&k_babaCode=36"
         },
         {
           "num": 6,
@@ -76,7 +76,7 @@
           "weather": "曇",
           "going": "重",
           "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=36&k_raceNo=6"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=6&k_babaCode=36"
         },
         {
           "num": 7,
@@ -87,7 +87,7 @@
           "weather": "曇",
           "going": "重",
           "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=36&k_raceNo=7"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=7&k_babaCode=36"
         },
         {
           "num": 8,
@@ -98,7 +98,7 @@
           "weather": "曇",
           "going": "重",
           "horses": 8,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=36&k_raceNo=8"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=8&k_babaCode=36"
         },
         {
           "num": 9,
@@ -109,7 +109,7 @@
           "weather": "曇",
           "going": "重",
           "horses": 10,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=36&k_raceNo=9"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=9&k_babaCode=36"
         },
         {
           "num": 10,
@@ -120,7 +120,7 @@
           "weather": "曇",
           "going": "重",
           "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=36&k_raceNo=10"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=10&k_babaCode=36"
         },
         {
           "num": 11,
@@ -128,10 +128,10 @@
           "kind": "重賞",
           "name": "エーデルワイス賞JpnIII",
           "course": "右1200m",
-          "weather": "曇",
+          "weather": "雨",
           "going": "重",
           "horses": 14,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=36&k_raceNo=11"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=11&k_babaCode=36"
         },
         {
           "num": 12,
@@ -139,10 +139,10 @@
           "kind": "特別",
           "name": "むかわ町長杯鵡川ししゃも特別B3B4-1",
           "course": "右1200m",
-          "weather": "曇",
+          "weather": "雨",
           "going": "重",
           "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=36&k_raceNo=12"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=12&k_babaCode=36"
         }
       ],
       "mainRace": {
@@ -169,7 +169,7 @@
           "weather": "曇",
           "going": "稍重",
           "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=20&k_raceNo=1"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=1&k_babaCode=20"
         },
         {
           "num": 2,
@@ -180,7 +180,7 @@
           "weather": "曇",
           "going": "稍重",
           "horses": 14,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=20&k_raceNo=2"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=2&k_babaCode=20"
         },
         {
           "num": 3,
@@ -191,7 +191,7 @@
           "weather": "曇",
           "going": "稍重",
           "horses": 9,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=20&k_raceNo=3"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=3&k_babaCode=20"
         },
         {
           "num": 4,
@@ -202,7 +202,7 @@
           "weather": "曇",
           "going": "稍重",
           "horses": 11,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=20&k_raceNo=4"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=4&k_babaCode=20"
         },
         {
           "num": 5,
@@ -213,7 +213,7 @@
           "weather": "曇",
           "going": "稍重",
           "horses": 14,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=20&k_raceNo=5"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=5&k_babaCode=20"
         },
         {
           "num": 6,
@@ -224,7 +224,7 @@
           "weather": "曇",
           "going": "稍重",
           "horses": 14,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=20&k_raceNo=6"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=6&k_babaCode=20"
         },
         {
           "num": 7,
@@ -235,7 +235,7 @@
           "weather": "曇",
           "going": "稍重",
           "horses": 11,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=20&k_raceNo=7"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=7&k_babaCode=20"
         },
         {
           "num": 8,
@@ -246,7 +246,7 @@
           "weather": "曇",
           "going": "稍重",
           "horses": 9,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=20&k_raceNo=8"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=8&k_babaCode=20"
         },
         {
           "num": 9,
@@ -257,7 +257,7 @@
           "weather": "曇",
           "going": "稍重",
           "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=20&k_raceNo=9"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=9&k_babaCode=20"
         },
         {
           "num": 10,
@@ -268,7 +268,7 @@
           "weather": "曇",
           "going": "稍重",
           "horses": 15,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=20&k_raceNo=10"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=10&k_babaCode=20"
         },
         {
           "num": 11,
@@ -279,7 +279,7 @@
           "weather": "曇",
           "going": "稍重",
           "horses": 16,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=20&k_raceNo=11"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=11&k_babaCode=20"
         },
         {
           "num": 12,
@@ -290,7 +290,7 @@
           "weather": "曇",
           "going": "稍重",
           "horses": 14,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=20&k_raceNo=12"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=12&k_babaCode=20"
         }
       ],
       "mainRace": {
@@ -317,7 +317,7 @@
           "weather": "晴",
           "going": "稍重",
           "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=24&k_raceNo=1"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=1&k_babaCode=24"
         },
         {
           "num": 2,
@@ -328,7 +328,7 @@
           "weather": "晴",
           "going": "稍重",
           "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=24&k_raceNo=2"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=2&k_babaCode=24"
         },
         {
           "num": 3,
@@ -339,7 +339,7 @@
           "weather": "晴",
           "going": "稍重",
           "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=24&k_raceNo=3"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=3&k_babaCode=24"
         },
         {
           "num": 4,
@@ -350,7 +350,7 @@
           "weather": "晴",
           "going": "稍重",
           "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=24&k_raceNo=4"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=4&k_babaCode=24"
         },
         {
           "num": 5,
@@ -361,7 +361,7 @@
           "weather": "晴",
           "going": "稍重",
           "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=24&k_raceNo=5"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=5&k_babaCode=24"
         },
         {
           "num": 6,
@@ -372,7 +372,7 @@
           "weather": "晴",
           "going": "良",
           "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=24&k_raceNo=6"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=6&k_babaCode=24"
         },
         {
           "num": 7,
@@ -383,7 +383,7 @@
           "weather": "晴",
           "going": "良",
           "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=24&k_raceNo=7"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=7&k_babaCode=24"
         },
         {
           "num": 8,
@@ -394,7 +394,7 @@
           "weather": "晴",
           "going": "良",
           "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=24&k_raceNo=8"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=8&k_babaCode=24"
         },
         {
           "num": 9,
@@ -405,7 +405,7 @@
           "weather": "晴",
           "going": "良",
           "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=24&k_raceNo=9"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=9&k_babaCode=24"
         },
         {
           "num": 10,
@@ -416,7 +416,7 @@
           "weather": "晴",
           "going": "良",
           "horses": 11,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=24&k_raceNo=10"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=10&k_babaCode=24"
         },
         {
           "num": 11,
@@ -427,7 +427,7 @@
           "weather": "晴",
           "going": "良",
           "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=24&k_raceNo=11"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=11&k_babaCode=24"
         },
         {
           "num": 12,
@@ -438,7 +438,7 @@
           "weather": "晴",
           "going": "良",
           "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=24&k_raceNo=12"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=12&k_babaCode=24"
         }
       ],
       "mainRace": {
@@ -465,7 +465,7 @@
           "weather": "晴",
           "going": "稍重",
           "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=27&k_raceNo=1"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=1&k_babaCode=27"
         },
         {
           "num": 2,
@@ -476,7 +476,7 @@
           "weather": "晴",
           "going": "稍重",
           "horses": 10,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=27&k_raceNo=2"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=2&k_babaCode=27"
         },
         {
           "num": 3,
@@ -487,7 +487,7 @@
           "weather": "晴",
           "going": "稍重",
           "horses": 10,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=27&k_raceNo=3"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=3&k_babaCode=27"
         },
         {
           "num": 4,
@@ -498,7 +498,7 @@
           "weather": "晴",
           "going": "稍重",
           "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=27&k_raceNo=4"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=4&k_babaCode=27"
         },
         {
           "num": 5,
@@ -509,7 +509,7 @@
           "weather": "晴",
           "going": "稍重",
           "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=27&k_raceNo=5"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=5&k_babaCode=27"
         },
         {
           "num": 6,
@@ -520,7 +520,7 @@
           "weather": "晴",
           "going": "稍重",
           "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=27&k_raceNo=6"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=6&k_babaCode=27"
         },
         {
           "num": 7,
@@ -531,7 +531,7 @@
           "weather": "晴",
           "going": "稍重",
           "horses": 10,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=27&k_raceNo=7"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=7&k_babaCode=27"
         },
         {
           "num": 8,
@@ -542,7 +542,7 @@
           "weather": "晴",
           "going": "稍重",
           "horses": 10,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=27&k_raceNo=8"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=8&k_babaCode=27"
         },
         {
           "num": 9,
@@ -553,7 +553,7 @@
           "weather": "晴",
           "going": "稍重",
           "horses": 10,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=27&k_raceNo=9"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=9&k_babaCode=27"
         },
         {
           "num": 10,
@@ -564,7 +564,7 @@
           "weather": "晴",
           "going": "稍重",
           "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=27&k_raceNo=10"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=10&k_babaCode=27"
         },
         {
           "num": 11,
@@ -575,7 +575,7 @@
           "weather": "晴",
           "going": "稍重",
           "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=27&k_raceNo=11"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=11&k_babaCode=27"
         },
         {
           "num": 12,
@@ -586,7 +586,7 @@
           "weather": "晴",
           "going": "稍重",
           "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_babaCode=27&k_raceNo=12"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F29&k_raceNo=12&k_babaCode=27"
         }
       ],
       "mainRace": {
