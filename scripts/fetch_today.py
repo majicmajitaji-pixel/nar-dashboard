@@ -158,7 +158,7 @@ def parse_race_list(html_text):
               if no and no.isdigit():
                             links[int(no)] = urllib.parse.urljoin(BASE, href)
                 
-      parser = RowParser()
+    parser = RowParser()
     parser.feed(html_text)
     races = []
     for row in parser.rows:
