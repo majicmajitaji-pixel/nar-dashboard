@@ -14,7 +14,7 @@ jobs:
       - name: Fetch keiba.go.jp
         run: |
           mkdir -p data
-          curl -sL -A "Mozilla/5.0" "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/TodayRaceInfo.json" -o data/today.json || echo '{"tracks":["monbetsu","oi","nagoya","sonoda"]}' > data/today.json
+          python3 scripts/fetch_today.py
       - name: Commit
         run: |
           git config user.name "nar-bot"
