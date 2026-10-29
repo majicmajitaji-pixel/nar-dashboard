@@ -224,8 +224,8 @@ def build_track(baba_code, name, races, race_date):
   # fetched, so linking adds zero requests to keiba.go.jp.
     race_list = []
     for race in races:
-          enriched = dict(race)
-      if not enriched.get("url"):
+        enriched = dict(race)
+        if not enriched.get("url"):
             query = urllib.parse.urlencode(
                 {
                     "k_raceDate": race_date,
