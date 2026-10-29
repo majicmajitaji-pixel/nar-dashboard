@@ -146,7 +146,19 @@ def parse_race_list(html_text):
     number, but their second cell is not a HH:MM time, so the time check
     filters them out.
     """
-    parser = RowParser()
+    # The race-name cells link to the official entry table (DebaTable).
+      # Capture those real hrefs per race number from the same page we
+    # already downloaded — no extra requests — and prefer them over
+    # locally constructed URLs.
+    links = {}
+    for href in re.findall(r'href="?([^\s">]*DebaTable\?[^\s">]*)', html_text):
+              href = href.replace("&amp;", "&")
+              qs = urllib.parse.parse_qs(urllib.parse.urlparse(href).query)
+              no = qs.get("k_raceNo", [None])[0]
+              if no and no.isdigit():
+                            links[int(no)] = urllib.parse.urljoin(BASE, href)
+                
+      parser = RowParser()
     parser.feed(html_text)
     races = []
     for row in parser.rows:
@@ -171,6 +183,7 @@ def parse_race_list(html_text):
                 "weather": row[6],
                 "going": row[7],
                 "horses": horses,
+              "url": links.get(int(m_no.group(1))),
             }
         )
     races.sort(key=lambda r: r["num"])
@@ -205,20 +218,22 @@ def build_track(baba_code, name, races, race_date):
     if info is None:
         info = {"id": "baba-%s" % baba_code, "kana": name, "location": "NAR"}
 
-    # Per-race official entry-table (出走表) links. These are only URL
-    # strings built locally — the DebaTable pages themselves are never
-    # fetched, so linking adds zero requests to keiba.go.jp.
+    # Per-race official entry-table (出走表) links: prefer the real href
+    # captured from the RaceList page; fall back to a locally built URL
+    # string. Either way the DebaTable pages themselves are never
+  # fetched, so linking adds zero requests to keiba.go.jp.
     race_list = []
     for race in races:
         enriched = dict(race)
-        query = urllib.parse.urlencode(
-            {
-                "k_raceDate": race_date,
-                "k_babaCode": baba_code,
-                "k_raceNo": race["num"],
-            }
-        )
-        enriched["url"] = BASE + "/KeibaWeb/TodayRaceInfo/DebaTable?" + query
+      if not enriched.get("url"):
+            query = urllib.parse.urlencode(
+                {
+                    "k_raceDate": race_date,
+                    "k_babaCode": baba_code,
+                    "k_raceNo": race["num"],
+                }
+            )
+            enriched["url"] = BASE + "/KeibaWeb/TodayRaceInfo/DebaTable?" + query
         race_list.append(enriched)
 
     # subInfo: distinct weather / going values seen during the day.
