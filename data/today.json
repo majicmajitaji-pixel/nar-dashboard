@@ -1,6 +1,6 @@
 {
   "date": "2026-10-31",
-  "generatedAt": "2026-10-31T13:46:19+09:00",
+  "generatedAt": "2026-10-31T20:20:41+09:00",
   "source": "keiba.go.jp",
   "tracks": [
     {
@@ -10,7 +10,7 @@
       "location": "北海道",
       "babaCode": "3",
       "races": 12,
-      "subInfo": "晴・2.2",
+      "subInfo": "晴/曇・2.2/2.1/2.0",
       "raceList": [
         {
           "num": 1,
@@ -62,8 +62,8 @@
           "kind": "",
           "name": "ワーホリから帰国元職場復帰C1-4",
           "course": "直200m",
-          "weather": "晴",
-          "going": "2.2",
+          "weather": "曇",
+          "going": "2.1",
           "horses": 10,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F31&k_raceNo=5&k_babaCode=3"
         },
@@ -73,8 +73,8 @@
           "kind": "",
           "name": "リズ山崎帯広競馬場来場記念2歳B-6",
           "course": "直200m",
-          "weather": "晴",
-          "going": "2.2",
+          "weather": "曇",
+          "going": "2.1",
           "horses": 10,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F31&k_raceNo=6&k_babaCode=3"
         },
@@ -84,8 +84,8 @@
           "kind": "",
           "name": "八極てい帯広競馬場来場記念B4-3",
           "course": "直200m",
-          "weather": "晴",
-          "going": "2.2",
+          "weather": "曇",
+          "going": "2.1",
           "horses": 10,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F31&k_raceNo=7&k_babaCode=3"
         },
@@ -95,8 +95,8 @@
           "kind": "",
           "name": "乃木坂46金川紗耶生誕記念2歳A-3",
           "course": "直200m",
-          "weather": "晴",
-          "going": "2.2",
+          "weather": "曇",
+          "going": "2.1",
           "horses": 10,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F31&k_raceNo=8&k_babaCode=3"
         },
@@ -106,8 +106,8 @@
           "kind": "",
           "name": "あおい23歳お誕生日杯B3-3",
           "course": "直200m",
-          "weather": "晴",
-          "going": "2.2",
+          "weather": "曇",
+          "going": "2.0",
           "horses": 10,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F31&k_raceNo=9&k_babaCode=3"
         },
@@ -117,8 +117,8 @@
           "kind": "",
           "name": "れいぴろ生誕祭2026B3-1",
           "course": "直200m",
-          "weather": "晴",
-          "going": "2.2",
+          "weather": "曇",
+          "going": "2.0",
           "horses": 10,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F31&k_raceNo=10&k_babaCode=3"
         },
@@ -128,8 +128,8 @@
           "kind": "特別",
           "name": "アテナ診療所祝7周年記念A2混合",
           "course": "直200m",
-          "weather": "晴",
-          "going": "2.2",
+          "weather": "曇",
+          "going": "2.0",
           "horses": 10,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F31&k_raceNo=11&k_babaCode=3"
         },
@@ -139,8 +139,8 @@
           "kind": "",
           "name": "B2-2",
           "course": "直200m",
-          "weather": "晴",
-          "going": "2.2",
+          "weather": "曇",
+          "going": "2.0",
           "horses": 9,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F10%2F31&k_raceNo=12&k_babaCode=3"
         }
