@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "generatedAt": "2026-11-04T14:30:07+09:00",
+  "generatedAt": "2026-11-04T22:24:52+09:00",
   "source": "keiba.go.jp",
   "tracks": [
     {
@@ -158,7 +158,7 @@
       "location": "岩手県",
       "babaCode": "10",
       "races": 12,
-      "subInfo": "晴・重",
+      "subInfo": "晴・重/稍重",
       "raceList": [
         {
           "num": 1,
@@ -255,7 +255,7 @@
           "name": "B1",
           "course": "左1000m",
           "weather": "晴",
-          "going": "重",
+          "going": "稍重",
           "horses": 12,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F04&k_raceNo=9&k_babaCode=10"
         },
@@ -266,7 +266,7 @@
           "name": "B1",
           "course": "左1000m",
           "weather": "晴",
-          "going": "重",
+          "going": "稍重",
           "horses": 12,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F04&k_raceNo=10&k_babaCode=10"
         },
@@ -277,7 +277,7 @@
           "name": "ダーレー・ジャパン特別B1二組",
           "course": "左1600m",
           "weather": "晴",
-          "going": "重",
+          "going": "稍重",
           "horses": 10,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F04&k_raceNo=11&k_babaCode=10"
         },
@@ -288,7 +288,7 @@
           "name": "夢・希望 未来へ前進B1一組",
           "course": "左1600m",
           "weather": "晴",
-          "going": "重",
+          "going": "稍重",
           "horses": 10,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F04&k_raceNo=12&k_babaCode=10"
         }
@@ -301,7 +301,7 @@
       "location": "千葉県",
       "babaCode": "19",
       "races": 12,
-      "subInfo": "小雨・稍重",
+      "subInfo": "小雨/雨・稍重/重",
       "raceList": [
         {
           "num": 1,
@@ -364,7 +364,7 @@
           "kind": "特別",
           "name": "一生懸命ダッシュB2B3選抜馬イ",
           "course": "左1000m",
-          "weather": "小雨",
+          "weather": "雨",
           "going": "稍重",
           "horses": 11,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F04&k_raceNo=6&k_babaCode=19"
@@ -375,8 +375,8 @@
           "kind": "特別",
           "name": "J認 シーサイドアイドル特別2歳選抜馬",
           "course": "左1500m",
-          "weather": "小雨",
-          "going": "稍重",
+          "weather": "雨",
+          "going": "重",
           "horses": 14,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F04&k_raceNo=7&k_babaCode=19"
         },
@@ -386,8 +386,8 @@
           "kind": "",
           "name": "馬い!麹ラボ発売記念C1二 三",
           "course": "左1600m",
-          "weather": "小雨",
-          "going": "稍重",
+          "weather": "雨",
+          "going": "重",
           "horses": 14,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F04&k_raceNo=8&k_babaCode=19"
         },
@@ -397,8 +397,8 @@
           "kind": "特別",
           "name": "クロッサンドラスプリントB2B3選抜馬",
           "course": "左1200m",
-          "weather": "小雨",
-          "going": "稍重",
+          "weather": "雨",
+          "going": "重",
           "horses": 10,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F04&k_raceNo=9&k_babaCode=19"
         },
@@ -408,8 +408,8 @@
           "kind": "特別",
           "name": "秋の山スプリントB1B2選抜馬",
           "course": "左1200m",
-          "weather": "小雨",
-          "going": "稍重",
+          "weather": "雨",
+          "going": "重",
           "horses": 11,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F04&k_raceNo=10&k_babaCode=19"
         },
@@ -419,8 +419,8 @@
           "kind": "重賞",
           "name": "平和賞2歳オープン",
           "course": "左1600m",
-          "weather": "小雨",
-          "going": "稍重",
+          "weather": "雨",
+          "going": "重",
           "horses": 11,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F04&k_raceNo=11&k_babaCode=19"
         },
@@ -430,8 +430,8 @@
           "kind": "特別",
           "name": "2026JockeysFestivaC2",
           "course": "左1800m",
-          "weather": "小雨",
-          "going": "稍重",
+          "weather": "雨",
+          "going": "重",
           "horses": 14,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F04&k_raceNo=12&k_babaCode=19"
         }
@@ -530,7 +530,7 @@
         },
         {
           "num": 8,
-          "time": "17:05",
+          "time": "17:11",
           "kind": "特別",
           "name": "霜月特別2歳1",
           "course": "右1500m",
@@ -541,7 +541,7 @@
         },
         {
           "num": 9,
-          "time": "17:40",
+          "time": "17:43",
           "kind": "",
           "name": "C1三",
           "course": "右1400m",
