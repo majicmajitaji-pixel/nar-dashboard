@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "generatedAt": "2026-11-06T14:46:22+09:00",
+  "generatedAt": "2026-11-06T22:22:53+09:00",
   "source": "keiba.go.jp",
   "tracks": [
     {
@@ -10,7 +10,7 @@
       "location": "北海道",
       "babaCode": "3",
       "races": 12,
-      "subInfo": "晴・2.8",
+      "subInfo": "晴/曇・2.8/2.7/2.6/2.5",
       "raceList": [
         {
           "num": 1,
@@ -41,7 +41,7 @@
           "name": "石窯ピザ記念2歳C-6",
           "course": "直200m",
           "weather": "晴",
-          "going": "2.8",
+          "going": "2.7",
           "horses": 10,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F06&k_raceNo=3&k_babaCode=3"
         },
@@ -52,7 +52,7 @@
           "name": "副ぶちょー賞2歳C-2",
           "course": "直200m",
           "weather": "晴",
-          "going": "2.8",
+          "going": "2.7",
           "horses": 10,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F06&k_raceNo=4&k_babaCode=3"
         },
@@ -63,7 +63,7 @@
           "name": "ミカゲホマレ賞C1-6",
           "course": "直200m",
           "weather": "晴",
-          "going": "2.8",
+          "going": "2.6",
           "horses": 10,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F06&k_raceNo=5&k_babaCode=3"
         },
@@ -74,7 +74,7 @@
           "name": "荒川弘記念2歳B-1",
           "course": "直200m",
           "weather": "晴",
-          "going": "2.8",
+          "going": "2.6",
           "horses": 10,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F06&k_raceNo=6&k_babaCode=3"
         },
@@ -84,8 +84,8 @@
           "kind": "",
           "name": "マロン号賞C1-2",
           "course": "直200m",
-          "weather": "晴",
-          "going": "2.8",
+          "weather": "曇",
+          "going": "2.6",
           "horses": 10,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F06&k_raceNo=7&k_babaCode=3"
         },
@@ -95,8 +95,8 @@
           "kind": "",
           "name": "御影カップB4-5",
           "course": "直200m",
-          "weather": "晴",
-          "going": "2.8",
+          "weather": "曇",
+          "going": "2.6",
           "horses": 10,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F06&k_raceNo=8&k_babaCode=3"
         },
@@ -106,8 +106,8 @@
           "kind": "",
           "name": "八軒カップB3-5",
           "course": "直200m",
-          "weather": "晴",
-          "going": "2.8",
+          "weather": "曇",
+          "going": "2.5",
           "horses": 10,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F06&k_raceNo=9&k_babaCode=3"
         },
@@ -117,8 +117,8 @@
           "kind": "",
           "name": "株式会社GINSAJI記念B2-3",
           "course": "直200m",
-          "weather": "晴",
-          "going": "2.8",
+          "weather": "曇",
+          "going": "2.5",
           "horses": 9,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F06&k_raceNo=10&k_babaCode=3"
         },
@@ -128,8 +128,8 @@
           "kind": "特別",
           "name": "『銀の匙』15周年記念杯A1-2",
           "course": "直200m",
-          "weather": "晴",
-          "going": "2.8",
+          "weather": "曇",
+          "going": "2.5",
           "horses": 10,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F06&k_raceNo=11&k_babaCode=3"
         },
@@ -139,8 +139,8 @@
           "kind": "",
           "name": "小学館 少年サンデー杯B1-2",
           "course": "直200m",
-          "weather": "晴",
-          "going": "2.8",
+          "weather": "曇",
+          "going": "2.5",
           "horses": 9,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F06&k_raceNo=12&k_babaCode=3"
         }
@@ -272,7 +272,7 @@
         },
         {
           "num": 11,
-          "time": "20:15",
+          "time": "20:20",
           "kind": "特別",
           "name": "大福山特別A2B1一",
           "course": "左1800m",
