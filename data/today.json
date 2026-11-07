@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "generatedAt": "2026-11-07T14:17:04+09:00",
+  "generatedAt": "2026-11-07T21:00:27+09:00",
   "source": "keiba.go.jp",
   "tracks": [
     {
@@ -10,7 +10,7 @@
       "location": "北海道",
       "babaCode": "3",
       "races": 12,
-      "subInfo": "晴・2.4",
+      "subInfo": "晴/曇・2.4/2.3/2.2/2.1",
       "raceList": [
         {
           "num": 1,
@@ -41,7 +41,7 @@
           "name": "牧祐樹&藤田南結婚記念2歳D-3",
           "course": "直200m",
           "weather": "晴",
-          "going": "2.4",
+          "going": "2.3",
           "horses": 9,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F07&k_raceNo=3&k_babaCode=3"
         },
@@ -52,7 +52,7 @@
           "name": "みなみちゃん花嫁記念2歳C-4",
           "course": "直200m",
           "weather": "晴",
-          "going": "2.4",
+          "going": "2.3",
           "horses": 10,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F07&k_raceNo=4&k_babaCode=3"
         },
@@ -62,8 +62,8 @@
           "kind": "",
           "name": "稚草隆55で賞C1-5",
           "course": "直200m",
-          "weather": "晴",
-          "going": "2.4",
+          "weather": "曇",
+          "going": "2.2",
           "horses": 9,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F07&k_raceNo=5&k_babaCode=3"
         },
@@ -73,8 +73,8 @@
           "kind": "",
           "name": "敏樹&和子金婚ハッピー記念2歳B-6",
           "course": "直200m",
-          "weather": "晴",
-          "going": "2.4",
+          "weather": "曇",
+          "going": "2.2",
           "horses": 9,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F07&k_raceNo=6&k_babaCode=3"
         },
@@ -84,8 +84,8 @@
           "kind": "",
           "name": "あやP40歳聖誕記念大祭典B4-4",
           "course": "直200m",
-          "weather": "晴",
-          "going": "2.4",
+          "weather": "曇",
+          "going": "2.2",
           "horses": 10,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F07&k_raceNo=7&k_babaCode=3"
         },
@@ -95,8 +95,8 @@
           "kind": "",
           "name": "富士香還暦1年後記念杯2歳A-1",
           "course": "直200m",
-          "weather": "晴",
-          "going": "2.4",
+          "weather": "曇",
+          "going": "2.2",
           "horses": 10,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F07&k_raceNo=8&k_babaCode=3"
         },
@@ -106,8 +106,8 @@
           "kind": "",
           "name": "喜っせ今日で16周年記念B3-3混合",
           "course": "直200m",
-          "weather": "晴",
-          "going": "2.4",
+          "weather": "曇",
+          "going": "2.1",
           "horses": 10,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F07&k_raceNo=9&k_babaCode=3"
         },
@@ -117,8 +117,8 @@
           "kind": "",
           "name": "藤井塗装店66期お疲れ様盃B3-1",
           "course": "直200m",
-          "weather": "晴",
-          "going": "2.4",
+          "weather": "曇",
+          "going": "2.1",
           "horses": 10,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F07&k_raceNo=10&k_babaCode=3"
         },
@@ -128,8 +128,8 @@
           "kind": "特別",
           "name": "第2回世界の山ちゃん幻杯オープン-1",
           "course": "直200m",
-          "weather": "晴",
-          "going": "2.4",
+          "weather": "曇",
+          "going": "2.1",
           "horses": 10,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F07&k_raceNo=11&k_babaCode=3"
         },
@@ -139,8 +139,8 @@
           "kind": "",
           "name": "C1-3",
           "course": "直200m",
-          "weather": "晴",
-          "going": "2.4",
+          "weather": "曇",
+          "going": "2.1",
           "horses": 10,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F07&k_raceNo=12&k_babaCode=3"
         }
