@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "generatedAt": "2026-11-08T14:15:25+09:00",
+  "generatedAt": "2026-11-08T21:21:40+09:00",
   "source": "keiba.go.jp",
   "tracks": [
     {
@@ -10,7 +10,7 @@
       "location": "北海道",
       "babaCode": "3",
       "races": 12,
-      "subInfo": "晴・2.0",
+      "subInfo": "晴・2.0/1.9/1.8",
       "raceList": [
         {
           "num": 1,
@@ -63,7 +63,7 @@
           "name": "稲ちゃん結婚記念祝by福松C1-1",
           "course": "直200m",
           "weather": "晴",
-          "going": "2.0",
+          "going": "1.9",
           "horses": 10,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F08&k_raceNo=5&k_babaCode=3"
         },
@@ -74,7 +74,7 @@
           "name": "爆誕!ムラトミ43周年記念2歳B-5",
           "course": "直200m",
           "weather": "晴",
-          "going": "2.0",
+          "going": "1.9",
           "horses": 10,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F08&k_raceNo=6&k_babaCode=3"
         },
@@ -85,7 +85,7 @@
           "name": "十勝産駒特別2歳産地限定",
           "course": "直200m",
           "weather": "晴",
-          "going": "2.0",
+          "going": "1.9",
           "horses": 10,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F08&k_raceNo=7&k_babaCode=3"
         },
@@ -96,7 +96,7 @@
           "name": "第2回せーのがさん杯B4-2",
           "course": "直200m",
           "weather": "晴",
-          "going": "2.0",
+          "going": "1.9",
           "horses": 10,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F08&k_raceNo=8&k_babaCode=3"
         },
@@ -107,7 +107,7 @@
           "name": "的野美青天才二十一歳生誕祭B2-4",
           "course": "直200m",
           "weather": "晴",
-          "going": "2.0",
+          "going": "1.9",
           "horses": 8,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F08&k_raceNo=9&k_babaCode=3"
         },
@@ -118,7 +118,7 @@
           "name": "櫻坂のラーメンクインB1-3",
           "course": "直200m",
           "weather": "晴",
-          "going": "2.0",
+          "going": "1.9",
           "horses": 10,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F08&k_raceNo=10&k_babaCode=3"
         },
@@ -129,7 +129,7 @@
           "name": "クインカップ4歳牝馬オープン別定",
           "course": "直200m",
           "weather": "晴",
-          "going": "2.0",
+          "going": "1.8",
           "horses": 10,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F08&k_raceNo=11&k_babaCode=3"
         },
@@ -140,7 +140,7 @@
           "name": "B3-6",
           "course": "直200m",
           "weather": "晴",
-          "going": "2.0",
+          "going": "1.8",
           "horses": 9,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F08&k_raceNo=12&k_babaCode=3"
         }
@@ -469,7 +469,7 @@
         },
         {
           "num": 2,
-          "time": "15:50",
+          "time": "15:55",
           "kind": "",
           "name": "C2-17組",
           "course": "右1300m",
