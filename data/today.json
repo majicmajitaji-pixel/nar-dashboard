@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-11",
-  "generatedAt": "2026-11-11T22:06:17+09:00",
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-12T15:28:13+09:00",
   "source": "keiba.go.jp",
   "tracks": [
     {
@@ -10,18 +10,18 @@
       "location": "北海道",
       "babaCode": "36",
       "races": 12,
-      "subInfo": "晴・稍重",
+      "subInfo": "曇・稍重",
       "raceList": [
         {
           "num": 1,
           "time": "14:20",
           "kind": "",
           "name": "2歳 未勝利",
-          "course": "右1700m",
-          "weather": "晴",
+          "course": "右1200m",
+          "weather": "曇",
           "going": "稍重",
-          "horses": 10,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=1&k_babaCode=36"
+          "horses": 14,
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=1&k_babaCode=36"
         },
         {
           "num": 2,
@@ -29,125 +29,125 @@
           "kind": "",
           "name": "2歳 未勝利",
           "course": "右1000m",
-          "weather": "晴",
+          "weather": "曇",
           "going": "稍重",
-          "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=2&k_babaCode=36"
+          "horses": 11,
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=2&k_babaCode=36"
         },
         {
           "num": 3,
           "time": "15:25",
           "kind": "",
-          "name": "3歳以上 C4-3",
-          "course": "右1200m",
-          "weather": "晴",
+          "name": "3歳以上 C4-2",
+          "course": "右1000m",
+          "weather": "曇",
           "going": "稍重",
           "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=3&k_babaCode=36"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=3&k_babaCode=36"
         },
         {
           "num": 4,
           "time": "15:55",
           "kind": "",
           "name": "3歳以上 C4-2",
-          "course": "右1200m",
-          "weather": "晴",
+          "course": "右1000m",
+          "weather": "曇",
           "going": "稍重",
-          "horses": 16,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=4&k_babaCode=36"
+          "horses": 12,
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=4&k_babaCode=36"
         },
         {
           "num": 5,
           "time": "16:30",
-          "kind": "",
-          "name": "3歳以上 C4-2",
+          "kind": "特別",
+          "name": "駒丘特別C級",
           "course": "右1000m",
-          "weather": "晴",
+          "weather": "曇",
           "going": "稍重",
           "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=5&k_babaCode=36"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=5&k_babaCode=36"
         },
         {
           "num": 6,
           "time": "17:00",
           "kind": "",
           "name": "3歳以上 C3-2 C4-1",
-          "course": "右1000m",
-          "weather": "晴",
+          "course": "右1200m",
+          "weather": "曇",
           "going": "稍重",
-          "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=6&k_babaCode=36"
+          "horses": 14,
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=6&k_babaCode=36"
         },
         {
           "num": 7,
           "time": "17:30",
           "kind": "",
-          "name": "3歳以上 C3-2 C4-1",
-          "course": "右1000m",
-          "weather": "晴",
+          "name": "ビアパーティーAiba浦河3賞C3-2C",
+          "course": "右1200m",
+          "weather": "曇",
           "going": "稍重",
-          "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=7&k_babaCode=36"
+          "horses": 13,
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=7&k_babaCode=36"
         },
         {
           "num": 8,
           "time": "18:05",
           "kind": "特別",
-          "name": "J認 ウィナーズチャレンジ10 2歳選抜馬",
-          "course": "右1700m",
-          "weather": "晴",
+          "name": "最後までお得!すぱっと4倍特別C1-2~",
+          "course": "右1800m",
+          "weather": "曇",
           "going": "稍重",
-          "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=8&k_babaCode=36"
+          "horses": 11,
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=8&k_babaCode=36"
         },
         {
           "num": 9,
           "time": "18:40",
-          "kind": "",
-          "name": "3歳以上 C3-2 C4-1",
-          "course": "右1200m",
-          "weather": "晴",
+          "kind": "特別",
+          "name": "来年も門別でJBC2歳優駿特別C1-2~",
+          "course": "右1700m",
+          "weather": "曇",
           "going": "稍重",
-          "horses": 14,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=9&k_babaCode=36"
+          "horses": 12,
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=9&k_babaCode=36"
         },
         {
           "num": 10,
           "time": "19:10",
           "kind": "特別",
-          "name": "グランシャリオドリーム83B4-2~C3",
-          "course": "右1200m",
-          "weather": "晴",
+          "name": "グランシャリオドリーム84 2歳3組",
+          "course": "右1000m",
+          "weather": "曇",
           "going": "稍重",
-          "horses": 13,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=10&k_babaCode=36"
+          "horses": 12,
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=10&k_babaCode=36"
         },
         {
           "num": 11,
           "time": "19:45",
           "kind": "特別",
-          "name": "門別軽種馬生産振興会特別B4-2~C3-",
+          "name": "来年も応援ホッカイドウ競馬特別2歳3組",
           "course": "右1200m",
-          "weather": "晴",
+          "weather": "曇",
           "going": "稍重",
-          "horses": 14,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=11&k_babaCode=36"
+          "horses": 15,
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=11&k_babaCode=36"
         },
         {
           "num": 12,
           "time": "20:20",
           "kind": "特別",
-          "name": "リアルスティール・プレミアムB3B4-1",
-          "course": "右1000m",
-          "weather": "晴",
+          "name": "イクイノックス・プレミアムB3B4-1",
+          "course": "右1200m",
+          "weather": "曇",
           "going": "稍重",
-          "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=12&k_babaCode=36"
+          "horses": 14,
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=12&k_babaCode=36"
         }
       ],
       "mainRace": {
         "num": 12,
-        "name": "リアルスティール・プレミアムB3B4-1",
+        "name": "イクイノックス・プレミアムB3B4-1",
         "source": "keiba.go.jp"
       }
     },
@@ -158,144 +158,144 @@
       "location": "神奈川県",
       "babaCode": "21",
       "races": 12,
-      "subInfo": "晴・不良",
+      "subInfo": "晴・重",
       "raceList": [
         {
           "num": 1,
           "time": "14:45",
           "kind": "",
-          "name": "鴛鴦賞3歳2",
+          "name": "C3三 四",
           "course": "左1400m",
           "weather": "晴",
-          "going": "不良",
-          "horses": 8,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=1&k_babaCode=21"
+          "going": "重",
+          "horses": 12,
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=1&k_babaCode=21"
         },
         {
           "num": 2,
-          "time": "15:15",
+          "time": "15:21",
           "kind": "",
-          "name": "ショウリョウバッタ賞2歳4",
+          "name": "2歳6",
           "course": "左1400m",
           "weather": "晴",
-          "going": "不良",
-          "horses": 8,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=2&k_babaCode=21"
+          "going": "重",
+          "horses": 7,
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=2&k_babaCode=21"
         },
         {
           "num": 3,
           "time": "15:45",
           "kind": "",
-          "name": "つばめ賞2歳未格付選定馬",
+          "name": "プファイル賞3歳未格付選定馬",
           "course": "左900m",
           "weather": "晴",
-          "going": "不良",
-          "horses": 7,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=3&k_babaCode=21"
+          "going": "重",
+          "horses": 11,
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=3&k_babaCode=21"
         },
         {
           "num": 4,
           "time": "16:15",
           "kind": "",
-          "name": "C2五 六",
+          "name": "C3三 四",
           "course": "左1400m",
           "weather": "晴",
-          "going": "不良",
+          "going": "重",
           "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=4&k_babaCode=21"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=4&k_babaCode=21"
         },
         {
           "num": 5,
           "time": "16:45",
           "kind": "",
-          "name": "C2五 六",
+          "name": "C2七 八",
           "course": "左1400m",
           "weather": "晴",
-          "going": "不良",
+          "going": "重",
           "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=5&k_babaCode=21"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=5&k_babaCode=21"
         },
         {
           "num": 6,
           "time": "17:15",
           "kind": "",
-          "name": "万雷賞C2選定馬",
+          "name": "爆雷賞C2選定馬",
           "course": "左900m",
           "weather": "晴",
-          "going": "不良",
+          "going": "重",
           "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=6&k_babaCode=21"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=6&k_babaCode=21"
         },
         {
           "num": 7,
           "time": "17:45",
           "kind": "",
-          "name": "冬桜賞C1一 二",
+          "name": "C2七 八",
           "course": "左1400m",
           "weather": "晴",
-          "going": "不良",
-          "horses": 11,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=7&k_babaCode=21"
+          "going": "重",
+          "horses": 10,
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=7&k_babaCode=21"
         },
         {
           "num": 8,
           "time": "18:20",
           "kind": "",
-          "name": "冬青賞C1一 二",
-          "course": "左1400m",
+          "name": "一気呵成賞B2選定馬",
+          "course": "左900m",
           "weather": "晴",
-          "going": "不良",
+          "going": "重",
           "horses": 11,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=8&k_babaCode=21"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=8&k_babaCode=21"
         },
         {
           "num": 9,
           "time": "18:55",
-          "kind": "特別",
-          "name": "初霜特別B3一 二 三",
-          "course": "左1600m",
+          "kind": "",
+          "name": "疾風怒濤賞B1選定馬",
+          "course": "左900m",
           "weather": "晴",
-          "going": "不良",
-          "horses": 14,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=9&k_babaCode=21"
+          "going": "重",
+          "horses": 11,
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=9&k_babaCode=21"
         },
         {
           "num": 10,
           "time": "19:30",
           "kind": "特別",
-          "name": "時雨空特別B2二",
-          "course": "左1500m",
+          "name": "「ご縁の国しまね」特別B3一 二 三",
+          "course": "左1400m",
           "weather": "晴",
-          "going": "不良",
-          "horses": 14,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=10&k_babaCode=21"
+          "going": "重",
+          "horses": 13,
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=10&k_babaCode=21"
         },
         {
           "num": 11,
           "time": "20:10",
           "kind": "重賞",
-          "name": "ロジータ記念3歳牝馬オープン",
-          "course": "左2100m",
+          "name": "ローレル賞【地方交流】2歳オープン",
+          "course": "左1600m",
           "weather": "晴",
-          "going": "不良",
+          "going": "重",
           "horses": 14,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=11&k_babaCode=21"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=11&k_babaCode=21"
         },
         {
           "num": 12,
           "time": "20:50",
-          "kind": "",
-          "name": "2026川崎ジョッキーズカップ第5戦C2",
-          "course": "左1500m",
+          "kind": "特別",
+          "name": "タレイア賞C1選定馬",
+          "course": "左2000m",
           "weather": "晴",
-          "going": "不良",
+          "going": "重",
           "horses": 14,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=12&k_babaCode=21"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=12&k_babaCode=21"
         }
       ],
       "mainRace": {
         "num": 11,
-        "name": "ロジータ記念3歳牝馬オープン",
+        "name": "ローレル賞【地方交流】2歳オープン",
         "source": "keiba.go.jp"
       }
     },
@@ -312,122 +312,122 @@
           "num": 1,
           "time": "12:25",
           "kind": "",
-          "name": "C16組",
+          "name": "C11組",
           "course": "右1500m",
           "weather": "晴",
           "going": "良",
           "horses": 11,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=1&k_babaCode=24"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=1&k_babaCode=24"
         },
         {
           "num": 2,
           "time": "13:00",
           "kind": "",
-          "name": "C15組",
+          "name": "C10組",
           "course": "右1500m",
           "weather": "晴",
           "going": "良",
-          "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=2&k_babaCode=24"
+          "horses": 11,
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=2&k_babaCode=24"
         },
         {
           "num": 3,
           "time": "13:30",
           "kind": "",
-          "name": "C14組",
+          "name": "祝 不惑のあやP爆誕C9",
           "course": "右1500m",
           "weather": "晴",
           "going": "良",
-          "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=3&k_babaCode=24"
+          "horses": 11,
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=3&k_babaCode=24"
         },
         {
           "num": 4,
           "time": "14:05",
           "kind": "",
-          "name": "2歳2組",
+          "name": "C8組",
           "course": "右1500m",
           "weather": "晴",
           "going": "良",
-          "horses": 8,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=4&k_babaCode=24"
+          "horses": 11,
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=4&k_babaCode=24"
         },
         {
           "num": 5,
           "time": "14:35",
-          "kind": "特別",
-          "name": "J交 名古屋チャレンジカップ コメッ2歳",
+          "kind": "",
+          "name": "C7組",
           "course": "右1500m",
           "weather": "晴",
           "going": "良",
-          "horses": 9,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=5&k_babaCode=24"
+          "horses": 11,
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=5&k_babaCode=24"
         },
         {
           "num": 6,
           "time": "15:05",
           "kind": "",
-          "name": "松村家安産祈願 みなみ頑張れ!C13",
+          "name": "C6組",
           "course": "右1500m",
           "weather": "晴",
           "going": "良",
           "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=6&k_babaCode=24"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=6&k_babaCode=24"
         },
         {
           "num": 7,
           "time": "15:40",
           "kind": "",
-          "name": "フォリエージ賞C12",
-          "course": "右1400m",
+          "name": "B10組",
+          "course": "右1500m",
           "weather": "晴",
           "going": "良",
-          "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=7&k_babaCode=24"
+          "horses": 11,
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=7&k_babaCode=24"
         },
         {
           "num": 8,
           "time": "16:25",
           "kind": "",
-          "name": "B7組",
+          "name": "B9組",
           "course": "右1500m",
           "weather": "晴",
           "going": "良",
-          "horses": 10,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=8&k_babaCode=24"
+          "horses": 12,
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=8&k_babaCode=24"
         },
         {
           "num": 9,
           "time": "16:55",
           "kind": "",
-          "name": "B6組",
+          "name": "B8組",
           "course": "右1500m",
           "weather": "晴",
           "going": "良",
-          "horses": 11,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=9&k_babaCode=24"
+          "horses": 12,
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=9&k_babaCode=24"
         },
         {
           "num": 10,
           "time": "17:25",
           "kind": "特別",
-          "name": "十日夜特別A4",
-          "course": "右1500m",
+          "name": "白菊大空昇竜戦A特別",
+          "course": "右2000m",
           "weather": "晴",
           "going": "良",
-          "horses": 10,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=10&k_babaCode=24"
+          "horses": 6,
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=10&k_babaCode=24"
         },
         {
           "num": 11,
           "time": "18:00",
-          "kind": "特別",
-          "name": "オールワン特別A3",
-          "course": "右1700m",
+          "kind": "重賞",
+          "name": "東海菊花賞オープン",
+          "course": "右2000m",
           "weather": "晴",
           "going": "良",
-          "horses": 11,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=11&k_babaCode=24"
+          "horses": 12,
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=11&k_babaCode=24"
         },
         {
           "num": 12,
@@ -438,12 +438,12 @@
           "weather": "晴",
           "going": "良",
           "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=12&k_babaCode=24"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=12&k_babaCode=24"
         }
       ],
       "mainRace": {
         "num": 11,
-        "name": "オールワン特別A3",
+        "name": "東海菊花賞オープン",
         "source": "keiba.go.jp"
       }
     },
@@ -454,7 +454,7 @@
       "location": "兵庫県",
       "babaCode": "27",
       "races": 12,
-      "subInfo": "晴・良",
+      "subInfo": "晴/曇・良",
       "raceList": [
         {
           "num": 1,
@@ -465,133 +465,133 @@
           "weather": "晴",
           "going": "良",
           "horses": 10,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=1&k_babaCode=27"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=1&k_babaCode=27"
         },
         {
           "num": 2,
           "time": "11:10",
-          "kind": "特別",
-          "name": "C2二3歳以上特別",
-          "course": "右1230m",
-          "weather": "晴",
-          "going": "良",
-          "horses": 8,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=2&k_babaCode=27"
-        },
-        {
-          "num": 3,
-          "time": "11:40",
           "kind": "",
           "name": "2歳未勝利",
           "course": "右1400m",
           "weather": "晴",
           "going": "良",
+          "horses": 9,
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=2&k_babaCode=27"
+        },
+        {
+          "num": 3,
+          "time": "11:40",
+          "kind": "",
+          "name": "C3二3歳以上",
+          "course": "右1400m",
+          "weather": "晴",
+          "going": "良",
           "horses": 10,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=3&k_babaCode=27"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=3&k_babaCode=27"
         },
         {
           "num": 4,
           "time": "12:10",
           "kind": "",
-          "name": "エリダヌス賞C3二3歳以上",
+          "name": "カペラ賞C3一3歳以上",
           "course": "右1400m",
           "weather": "晴",
           "going": "良",
           "horses": 10,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=4&k_babaCode=27"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=4&k_babaCode=27"
         },
         {
           "num": 5,
           "time": "12:45",
           "kind": "",
-          "name": "アルデバラン賞C3一3歳以上",
-          "course": "右1400m",
+          "name": "HUK企画☆軽量ハンデスプリント1sC3",
+          "course": "右1230m",
           "weather": "晴",
           "going": "良",
-          "horses": 10,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=5&k_babaCode=27"
+          "horses": 11,
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=5&k_babaCode=27"
         },
         {
           "num": 6,
           "time": "13:15",
           "kind": "",
-          "name": "C3 3歳以上",
-          "course": "右820m",
-          "weather": "晴",
-          "going": "良",
-          "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=6&k_babaCode=27"
-        },
-        {
-          "num": 7,
-          "time": "13:50",
-          "kind": "特別",
-          "name": "C2一3歳以上特別",
-          "course": "右1230m",
-          "weather": "晴",
-          "going": "良",
-          "horses": 8,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=7&k_babaCode=27"
-        },
-        {
-          "num": 8,
-          "time": "14:20",
-          "kind": "",
           "name": "C2二3歳以上",
           "course": "右1400m",
           "weather": "晴",
           "going": "良",
-          "horses": 9,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=8&k_babaCode=27"
+          "horses": 10,
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=6&k_babaCode=27"
         },
         {
-          "num": 9,
-          "time": "14:55",
+          "num": 7,
+          "time": "13:50",
           "kind": "",
           "name": "C2一3歳以上",
           "course": "右1400m",
           "weather": "晴",
           "going": "良",
           "horses": 10,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=9&k_babaCode=27"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=7&k_babaCode=27"
+        },
+        {
+          "num": 8,
+          "time": "14:20",
+          "kind": "",
+          "name": "C2 3歳以上",
+          "course": "右820m",
+          "weather": "晴",
+          "going": "良",
+          "horses": 12,
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=8&k_babaCode=27"
+        },
+        {
+          "num": 9,
+          "time": "14:55",
+          "kind": "特別",
+          "name": "J認 アッパートライ2歳特別",
+          "course": "右1400m",
+          "weather": "晴",
+          "going": "良",
+          "horses": 12,
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=9&k_babaCode=27"
         },
         {
           "num": 10,
           "time": "15:30",
           "kind": "特別",
           "name": "B2 3歳以上特別",
-          "course": "右1230m",
-          "weather": "晴",
+          "course": "右1400m",
+          "weather": "曇",
           "going": "良",
-          "horses": 10,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=10&k_babaCode=27"
+          "horses": 12,
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=10&k_babaCode=27"
         },
         {
           "num": 11,
           "time": "16:05",
           "kind": "特別",
-          "name": "なにわの養鶏養蜂特別B1B2 3歳以上",
-          "course": "右1230m",
-          "weather": "晴",
+          "name": "大和の雫特別A2 3歳以上",
+          "course": "右1400m",
+          "weather": "曇",
           "going": "良",
-          "horses": 11,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=11&k_babaCode=27"
+          "horses": 9,
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=11&k_babaCode=27"
         },
         {
           "num": 12,
           "time": "16:40",
-          "kind": "特別",
-          "name": "C1 3歳以上特別",
+          "kind": "",
+          "name": "C1 3歳以上",
           "course": "右1400m",
-          "weather": "晴",
+          "weather": "曇",
           "going": "良",
           "horses": 12,
-          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F11&k_raceNo=12&k_babaCode=27"
+          "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F12&k_raceNo=12&k_babaCode=27"
         }
       ],
       "mainRace": {
-        "num": 12,
-        "name": "C1 3歳以上特別",
+        "num": 11,
+        "name": "大和の雫特別A2 3歳以上",
         "source": "keiba.go.jp"
       }
     }
