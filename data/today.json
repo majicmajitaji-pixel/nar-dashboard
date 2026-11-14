@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "generatedAt": "2026-11-14T14:38:10+09:00",
+  "generatedAt": "2026-11-14T21:38:17+09:00",
   "source": "keiba.go.jp",
   "tracks": [
     {
@@ -10,7 +10,7 @@
       "location": "北海道",
       "babaCode": "3",
       "races": 12,
-      "subInfo": "晴・1.3",
+      "subInfo": "晴・1.3/1.2/1.1",
       "raceList": [
         {
           "num": 1,
@@ -63,7 +63,7 @@
           "name": "うみうみ空中散歩ライフ満喫C1-4混合",
           "course": "直200m",
           "weather": "晴",
-          "going": "1.3",
+          "going": "1.2",
           "horses": 10,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F14&k_raceNo=5&k_babaCode=3"
         },
@@ -74,7 +74,7 @@
           "name": "顔面国宝・瑠伊 おめでとう2歳B-4",
           "course": "直200m",
           "weather": "晴",
-          "going": "1.3",
+          "going": "1.2",
           "horses": 10,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F14&k_raceNo=6&k_babaCode=3"
         },
@@ -85,7 +85,7 @@
           "name": "明大・実里結婚記念B3-8",
           "course": "直200m",
           "weather": "晴",
-          "going": "1.3",
+          "going": "1.2",
           "horses": 10,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F14&k_raceNo=7&k_babaCode=3"
         },
@@ -96,7 +96,7 @@
           "name": "孝成&菜々子 結婚記念杯2歳A-2",
           "course": "直200m",
           "weather": "晴",
-          "going": "1.3",
+          "going": "1.2",
           "horses": 10,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F14&k_raceNo=8&k_babaCode=3"
         },
@@ -107,7 +107,7 @@
           "name": "悠輔ハッピーバースデー記念B3-2",
           "course": "直200m",
           "weather": "晴",
-          "going": "1.3",
+          "going": "1.2",
           "horses": 10,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F14&k_raceNo=9&k_babaCode=3"
         },
@@ -118,7 +118,7 @@
           "name": "第1回 川勝賞A2-2混合",
           "course": "直200m",
           "weather": "晴",
-          "going": "1.3",
+          "going": "1.2",
           "horses": 9,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F14&k_raceNo=10&k_babaCode=3"
         },
@@ -129,7 +129,7 @@
           "name": "トドワラ特別A1-1",
           "course": "直200m",
           "weather": "晴",
-          "going": "1.3",
+          "going": "1.1",
           "horses": 9,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F14&k_raceNo=11&k_babaCode=3"
         },
@@ -140,7 +140,7 @@
           "name": "B1-4",
           "course": "直200m",
           "weather": "晴",
-          "going": "1.3",
+          "going": "1.1",
           "horses": 7,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F14&k_raceNo=12&k_babaCode=3"
         }
@@ -295,7 +295,7 @@
       "location": "佐賀県",
       "babaCode": "32",
       "races": 11,
-      "subInfo": "曇・良",
+      "subInfo": "小雨・良",
       "raceList": [
         {
           "num": 1,
@@ -303,7 +303,7 @@
           "kind": "",
           "name": "2歳-8組",
           "course": "右900m",
-          "weather": "曇",
+          "weather": "小雨",
           "going": "良",
           "horses": 11,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F14&k_raceNo=1&k_babaCode=32"
@@ -314,7 +314,7 @@
           "kind": "",
           "name": "C2-5組",
           "course": "右1400m",
-          "weather": "曇",
+          "weather": "小雨",
           "going": "良",
           "horses": 12,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F14&k_raceNo=2&k_babaCode=32"
@@ -325,7 +325,7 @@
           "kind": "",
           "name": "C2-4組",
           "course": "右1400m",
-          "weather": "曇",
+          "weather": "小雨",
           "going": "良",
           "horses": 11,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F14&k_raceNo=3&k_babaCode=32"
@@ -336,7 +336,7 @@
           "kind": "特別",
           "name": "韓国岳特別A1・A2",
           "course": "右1860m",
-          "weather": "曇",
+          "weather": "小雨",
           "going": "良",
           "horses": 11,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F14&k_raceNo=4&k_babaCode=32"
@@ -347,7 +347,7 @@
           "kind": "",
           "name": "B-4組",
           "course": "右1400m",
-          "weather": "曇",
+          "weather": "小雨",
           "going": "良",
           "horses": 12,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F14&k_raceNo=5&k_babaCode=32"
@@ -358,7 +358,7 @@
           "kind": "",
           "name": "C2-3組",
           "course": "右1400m",
-          "weather": "曇",
+          "weather": "小雨",
           "going": "良",
           "horses": 9,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F14&k_raceNo=6&k_babaCode=32"
@@ -369,7 +369,7 @@
           "kind": "",
           "name": "C1-10組",
           "course": "右1300m",
-          "weather": "曇",
+          "weather": "小雨",
           "going": "良",
           "horses": 10,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F14&k_raceNo=7&k_babaCode=32"
@@ -380,7 +380,7 @@
           "kind": "",
           "name": "ルベライト賞C1-9組",
           "course": "右1300m",
-          "weather": "曇",
+          "weather": "小雨",
           "going": "良",
           "horses": 10,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F14&k_raceNo=8&k_babaCode=32"
@@ -391,7 +391,7 @@
           "kind": "",
           "name": "SAGAリベンジャーズジョッキーズC1-",
           "course": "右1400m",
-          "weather": "曇",
+          "weather": "小雨",
           "going": "良",
           "horses": 12,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F14&k_raceNo=9&k_babaCode=32"
@@ -402,7 +402,7 @@
           "kind": "",
           "name": "霜降賞C2-2組",
           "course": "右1400m",
-          "weather": "曇",
+          "weather": "小雨",
           "going": "良",
           "horses": 11,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F14&k_raceNo=10&k_babaCode=32"
@@ -413,7 +413,7 @@
           "kind": "",
           "name": "SAGAリベFEVER14C2-6組",
           "course": "右1400m",
-          "weather": "曇",
+          "weather": "小雨",
           "going": "良",
           "horses": 14,
           "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_raceDate=2026%2F11%2F14&k_raceNo=11&k_babaCode=32"
